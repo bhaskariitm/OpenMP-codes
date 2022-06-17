@@ -1,5 +1,5 @@
 # OpenMP-codes
-This repository has openMP codes for NPTEL course : introduction to parallel programming in openMP
+This repository has the openMP codes for the coding competition held under NPTEL course : introduction to parallel programming in openMP
 
 ## Problem statement: 
 Given two matrices `A` and `B`, create a matrix `C = alpha*A*B + beta*C`, where `alpha` and `beta` are constant numbers taken as user input.
